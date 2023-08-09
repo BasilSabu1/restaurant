@@ -1,0 +1,231 @@
+
+:root{
+    --green:rgb(30, 239, 37);
+    --black:black;
+    --light-color:white;
+    --box-shadow:0 -5rem 1.5rem blue;
+    }
+    
+    *{
+        font-family: 'Satisfy', cursive;
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+        text-decoration: none;
+        outline: none;
+        border: none;
+        text-transform: capitalize;
+        transform: all .2s linear;
+    }
+    
+    html{
+        font-size: 62.5%;
+        overflow-x: hidden;
+        scroll-padding-top: 5.5rem;
+        scroll-behavior: smooth;
+    
+    }
+    
+    section{
+        padding: 2rem 9%;
+    }
+    
+    header{
+        position: fixed;
+        top: 0;
+        left: 0;
+        right: 0;
+        background: rgb(67, 7, 232);
+        padding: 1rem 7%;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        z-index: 1000;
+        margin-top:0px;
+    
+    }
+    
+    header .navbar a{
+        font-size: 1.7rem;
+        border-radius: .5rem;
+        padding: .5rem  1.5rem;
+        color: var(--light-color);
+    }
+    
+    header .navbar a:hover{
+        color:white ;
+        background: var(--green);
+    }
+    
+    #icon{
+        color:#65d575;
+        font-size:30px;
+        letter-spacing:10px;
+    }
+    
+    .image{
+        position:relative;
+         top:0px;
+         background:url('https://w0.peakpx.com/wallpaper/514/512/HD-wallpaper-indian-restaurant-san-francisco-deccan-house-sf-north-indian-food.jpg');
+         background-repeat:no-repeat;
+         height:785px;
+         background-size:cover;
+     }
+    
+    h2{
+        color:#dcebeb;
+        font-size:xxx-large;
+        position:relative;
+        top:230px;
+        left:10px;
+    }
+    
+    p{
+        color:#c9b5b1;
+        font-size:x-large;
+        position:relative;
+        top:230px;
+        left:10px;
+        
+    }
+    
+    button{
+        height:30px;
+        background:#ce6217;
+        border-radius:5px;
+        width:100px;
+        position:relative;
+        top:240px;
+        left:10px;
+        
+    }
+    
+    
+    .social{
+        background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgN3WAEFGSGvhl6KgodVT0R5euFkItHpTZRmQ9hj5PvLwoAiirH36G8tsmGn1rNUgbf2E&usqp=CAU);
+        
+        height:25vh;
+        background-repeat: no-repeat;
+        position:relative;
+        left:100px;
+        top:100px;
+        
+    }
+    
+    .social p{
+        color:black;
+        font-size: larger;
+        position:relative;
+        top:10px;
+        left:300px;
+    }
+    
+    h3{
+        position:relative;
+        top:-70px;
+        left:100px;
+        font-size:xx-large;
+    }
+
+    .biriyani{
+ background: url(https://media.istockphoto.com/id/1215601335/photo/delicious-spicy-chicken-biryani-in-traditional-bowl-on-white-background-indian-or-pakistani.jpg?s=170667a&w=0&k=20&c=QKaqZLzafGpJ_6cAw1wS4JoixbgUUirlBMzxT1xbz68=);
+   background-repeat:no-repeat;
+        background-size:300px;
+        position:relative;
+        top:200px;
+        left:100px;
+     }
+
+.biriyani p{
+    color:black;
+    font-size:larger;
+    position:relative;
+    top:0px;
+    left:320px;
+}
+
+.biriyani h1{
+    position:relative;
+    top:-70px;
+    left:100px;
+    font-size:xx-large
+}
+
+.media{
+    
+    height: 150px;
+    width: 100%;
+    border: 0px solid;
+    border-radius: 0%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0px 10px;
+    margin-left:00px;
+    margin-top:300px;
+    background-color:black;
+}
+
+.media i{
+    font-size:30px;
+    color:white;
+    margin:0px 20px;
+margin-bottom:70px;
+    
+}
+
+.media :hover{
+    color:rgb(19, 126, 241);
+}
+
+.media .icon{
+    height:40px;
+    position:relative;
+    top:-40px;
+    left:400px;
+}
+
+.footer{
+    width:100vh;
+}
+
+.footer p{
+    color:white;
+    position:relative;
+    top:0px;
+}
+
+.arrow{
+    height:0px;
+    position:relative;
+    left:110vh;
+    top:-40px
+}
+
+.Alfam p{
+     color:black;
+    font-size:larger;
+    position:relative;
+    top:50px;
+    left:420px;
+
+}
+
+.Alfam{
+    height:250px;
+    position:relative;
+    top:270px;
+     background:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC_77a77ySzTQ7N2BJcut_dXGv6GwxoTFNzQ&usqp=CAU);
+    background-repeat:no-repeat;
+    background-size:200px;
+    background-position:130px 80px;
+    
+}
+
+.Alfam h1{
+    position:relative;
+    top:0px;
+    left:200px;
+    font-size:xx-large;
+  
+}

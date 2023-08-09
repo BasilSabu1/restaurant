@@ -1,0 +1,166 @@
+.container{
+    background:white;
+    width:50%;
+    height:240vh;
+    margin-left:400px;
+}
+
+.chicken{
+    height:200px;
+    background:url(https://static.toiimg.com/photo/60425532.cms);
+    background-repeat:no-repeat;
+    background-size:150px;
+    background-position:550px 80px;
+    
+    
+}
+
+i{
+    color:red;
+    border:1px  solid;
+    margin-left:20px;
+}
+
+.chicken h1{
+    margin-left:30px;
+    position:relative;
+    top:-60px
+}
+
+.chicken h2{
+    margin-left:10px;
+}
+
+.chicken p{
+    font-size:larger;
+    font-weight:bold;
+    margin-left:10px;
+}
+
+button{
+    width:75px;
+    height:30px;
+    border-radius:6px;
+    margin-left:81vh;
+    color: green;
+}
+
+.Dragon{
+    background:url(https://5.imimg.com/data5/YC/YO/MY-62581047/dragon-chicken-500x500.png);
+    background-repeat:no-repeat;
+    background-size:150px;
+     background-position:555px 50px;
+
+}
+
+.biriyani{
+    background:url(https://www.licious.in/blog/wp-content/uploads/2016/07/Biryani.jpg);
+    background-repeat:no-repeat;
+    background-size:150px;
+     background-position:555px 50px;
+}
+
+.mandhi{
+    background:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrqKREOqs7ZGc67X-AS2AM5uEkN5QuybFjc5b6-M7rXh4M7XzcIvYbGRgiD9htY8D-3lE&usqp=CAU);
+    background-repeat:no-repeat;
+    background-size:150px;
+     background-position:555px 50px;
+}
+
+.alfam{
+     background:url(https://qbuypanda.com/image/cache/catalog/Seller_67/Alfaham-1000x1000.jpg);
+    background-repeat:no-repeat;
+    background-size:150px 90px;
+    background-position:555px 50px;
+
+}
+
+.fried{
+       background:url(https://www.nestleprofessional.in/sites/default/files/2022-07/Fried-Rice.jpg);
+    background-repeat:no-repeat;
+    background-size:150px 90px;
+    background-position:555px 50px;
+}
+
+.Chilly{
+     background:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSZrydH9PpxNpf9jM0qpZrEbW0woryFpiQ4A&usqp=CAU);
+    background-repeat:no-repeat;
+    background-size:150px 90px;
+    background-position:555px 50px;
+}
+
+.Chilly i{
+    color:green;
+}
+
+.noodles{
+       background:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0ofjauT6NuBM0nM1zDsqvtJQaUvkNh_GLSw&usqp=CAU);
+    background-repeat:no-repeat;
+    background-size:150px 90px;
+    background-position:555px 50px;
+
+
+}
+
+.noodles i{
+    color:green;
+}
+
+.paneer{
+     background:url(https://www.indianhealthyrecipes.com/wp-content/uploads/2021/08/paneer-manchurian.jpg);
+    background-repeat:no-repeat;
+    background-size:150px 90px;
+    background-position:555px 50px;
+}
+
+.paneer i{
+    color:green;
+}
+
+.rating{
+    background:white;
+    width:90px;
+    height:90px;
+    border:1px solid #c6baba;
+    border-radius:7px;
+    position:relative;
+    top:-110px;
+    left:600px;
+}
+
+.rating h3{
+    margin-left:40px;
+    margin-top:8px;
+    color:green;
+    position:relative;
+    top:5px;
+    
+}
+
+.rating i{
+    position:relative;
+    top:-35px;
+    left:-10px;
+    border:0px;
+    
+}
+
+.rating p{
+    position:relative;
+    top:-0px;
+    left:5px;
+}
+
+.rating hr{
+    margin-top:-20px;
+    
+}
+
+.other{
+    color: rgb(230, 167, 8);
+}
+
+.non{
+    color: green;
+    font-weight: bolder;
+}
